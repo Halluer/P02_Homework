@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
         lv.setAdapter(adapter);
         onBtnClick();
 
-
+//Done
     }
     public void onBtnClick(){
         btn.setOnClickListener(new View.OnClickListener() {
